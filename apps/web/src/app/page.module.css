@@ -1,0 +1,76 @@
+.page {
+  min-height: 100vh;
+  padding: 40px;
+  font-family: "Inter", "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #0f172a, #111827);
+  color: white;
+}
+
+/* Centered not logged in screen */
+.centerScreen {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #111827, #1f2937);
+  text-align: center;
+}
+.errorTitle {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #ff003c;
+}
+.errorText {
+  margin-top: 10px;
+  color: #94a3b8;
+  font-size: 1.2rem;
+}
+.errorTextSmall {
+  margin-top: 8px;
+  color: #64748b;
+  font-size: 0.875rem;
+}
+.highlight {
+  color: #ff6b00;
+  font-weight: bold;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.logo {
+  font-size: 3rem;
+  font-weight: bold;
+  background: linear-gradient(90deg, #ff003c, #ff6b00, #ffcc00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.subtitle {
+  color: #cbd5e1;
+  margin-top: 6px;
+}
+.userRole {
+  font-size: 0.875rem;
+  color: #94a3b8;
+}
+
+/* Dashboard cards */
+.cards {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  margin-bottom: 50px;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  font-size: 0.75rem;
+  color: #94a3b8;
+  margin-top: 50px;
+}
