@@ -35,7 +35,7 @@ This project uses **Neon Serverless PostgreSQL**.
 
 👉 Neon Docs: https://neon.tech
 
-Add your connection string in `apps/api.env`:
+Add your connection string in `apps/api/.env`:
 
 DATABASE_URL="your_neon_postgres_connection_string" 
 
