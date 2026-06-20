@@ -67,6 +67,9 @@ Saasflow-Pro/
 
 ## 🚀 Setup Instructions
 
+## Prerequisites
+- Node.js (v18+)
+
 ## 1. Clone repository
 
 ```bash
