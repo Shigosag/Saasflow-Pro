@@ -1,8 +1,8 @@
 # 🚀 SaaSFlow Pro
 
-[![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)](https://www.typescriptlang.org/)  
+[![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)  
-[![Neon](https://img.shields.io/badge/Neon-Serverless%20Postgres-00E599)](https://neon.tech/)  
+[![Neon](https://img.shields.io/badge/Neon-Serverless%20Postgres-00E599)](https://neon.tech/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Modern SaaS Dashboard built with **Next.js**, **NextAuth**, and **Neon PostgreSQL**.
