@@ -94,11 +94,11 @@ Saasflow-Pro/
 
 | Dashboard1 | Dashboard2 |
 | :---: | :---: |
-| ![Dashboard](screenshots/dashboard1.png) | ![Projects](screenshots/dashboard2.png) |
+| ![Dashboard](screenshots/dashboard1.png) | ![Dashboard](screenshots/dashboard2.png) |
 
-| Login |
+| Login Flow |
 | :---: |
-| ![Users](screenshots/login.png) |
+| ![Login](screenshots/login.png) |
 
 ---
 
