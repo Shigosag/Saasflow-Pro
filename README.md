@@ -11,8 +11,9 @@ Designed and developed by **Shigosag**.
 
 ## 🖼️ Dashboard Overview
 
-![SaaSFlow Pro Dashboard](screenshots/dashboard1.png)
-![SaaSFlow Pro Dashboard](screenshots/dashboard2.png)
+| Top Section | Bottom Section |
+| :---: | :---: |
+| ![SaaSFlow Pro Dashboard](screenshots/dashboard1.png) | ![SaaSFlow Pro Dashboard](screenshots/dashboard2.png) |
 
 ---
 
@@ -92,7 +93,7 @@ Saasflow-Pro/
 
 ## 🖼️ Feature Screenshots
 
-| Dashboard1 | Dashboard2 |
+| DashboardTop | DashboardBottom |
 | :---: | :---: |
 | ![Dashboard](screenshots/dashboard1.png) | ![Dashboard](screenshots/dashboard2.png) |
 
