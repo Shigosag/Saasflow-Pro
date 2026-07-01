@@ -24,11 +24,10 @@ Designed and developed by **Shigosag**.
 </div>
 
 **Timestamps:**
-- **0:00** - SaaSFlow Pro introduction
-- **0:10** - Authentication / Login flow
-- **0:25** - Dashboard overview
-- **0:45** - Navigation (Projects, Users, Settings)
-- **1:10** - UI/UX walkthrough
+- **0:00** - Dashboard overview
+- **0:25** - Authentication / Login flow
+- **0:40** - Sidebar overview
+- **1:16** - Github repository overview
 
 ---
 
