@@ -9,6 +9,26 @@ Modern SaaS Dashboard built with **Next.js**, **NextAuth**, and **Neon PostgreSQ
 
 Designed and developed by **Shigosag**.
 
+## 🖼️ Dashboard Overview
+
+![SaaSFlow Pro Dashboard](screenshots/dashboard.png)
+![SaaSFlow Pro Dashboard](screenshots/dashboard2.png)
+
+---
+
+## 🎥 SaaSFlow Pro Demo & Walkthrough
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e41cddb9-13ea-4d10-950a-16759f9f21a5" width="100%" controls></video>
+</div>
+
+**Timestamps:**
+- **0:00** - SaaSFlow Pro introduction
+- **0:10** - Authentication / Login flow
+- **0:25** - Dashboard overview
+- **0:45** - Navigation (Projects, Users, Settings)
+- **1:10** - UI/UX walkthrough
+
 ---
 
 ## ✨ Features
@@ -67,6 +87,18 @@ Saasflow-Pro/
 ├── pnpm-workspace.yaml
 └── README.md
 ```
+
+---
+
+## 🖼️ Feature Screenshots
+
+| Dashboard1 | Dashboard2 |
+| :---: | :---: |
+| ![Dashboard](screenshots/dashboard1.png) | ![Projects](screenshots/dashboard2.png) |
+
+| Login |
+| :---: |
+| ![Users](screenshots/login.png) |
 
 ---
 
