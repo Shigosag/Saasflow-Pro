@@ -24,10 +24,10 @@ Designed and developed by **Shigosag**.
 </div>
 
 **Timestamps:**
-- **0:00** - Dashboard overview
+- **0:00** - Dashboard Overview
 - **0:25** - Authentication / Login flow
-- **0:40** - Sidebar overview
-- **1:16** - Github repository overview
+- **0:40** - Sidebar Overview
+- **1:16** - Github Repository Overview
 
 ---
 
